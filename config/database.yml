@@ -1,4 +1,4 @@
-<% project_name = 'rails-api-template' %>
+<% project_name = 'rv-in-heaven' %>
 
 default: &default
   adapter: postgresql
