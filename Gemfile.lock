@@ -137,6 +137,7 @@ GEM
       thor (>= 0.19.0, < 2.0)
     rainbow (3.0.0)
     rake (12.3.1)
+    ratyrate (1.2.2.alpha)
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
@@ -203,6 +204,7 @@ DEPENDENCIES
   rack-cors (~> 1.0.2)
   rails (~> 5.2.1)
   rails_12factor (~> 0.0.3)
+  ratyrate
   rspec-rails (~> 3.7.2)
   rubocop (~> 0.52.1)
   spring (~> 2.0.2)
@@ -212,4 +214,4 @@ RUBY VERSION
    ruby 2.5.0p0
 
 BUNDLED WITH
-   1.16.1
+   1.16.6
